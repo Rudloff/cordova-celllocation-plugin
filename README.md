@@ -20,3 +20,7 @@ Usage
         console.log("error");
     });
 
+
+Credits
+=====
+This project includes some code from https://github.com/vliesaputra/DeviceInformationPlugin
