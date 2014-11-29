@@ -3,12 +3,12 @@
 <plugin xmlns="http://www.phonegap.com/ns/plugins/1.0"
         xmlns:android="http://schemas.android.com/apk/res/android"
         id="pro.rudloff.celllocation"
-        version="1.0.1">
+        version="0.1">
     
     <name>CellLocation</name>
     <description>This plugin will get GSMCellLocation information.</description>
     <author>Pierre Rudloff</author>
-    <keywords>android, telephony manager, device information</keywords>
+    <keywords>android, telephony manager, device information, cell location</keywords>
     <license>MIT</license>
     
     <engines>
