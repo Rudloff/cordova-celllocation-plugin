@@ -8,8 +8,6 @@ import org.json.JSONArray;
 
 import android.content.Context;
 import android.telephony.TelephonyManager;
-import android.accounts.Account;
-import android.accounts.AccountManager;
 import android.telephony.gsm.GsmCellLocation;
 
 
